@@ -1,5 +1,5 @@
-// let btns = document.querySelectorAll(".button");
-// let restartBtn = document.querySelector("#restart-btn");
+let btns = document.querySelectorAll(".button");
+let restartBtn = document.querySelector("#restart-btn");
 
 // let turn = "O";
 // btns.forEach(btn => {
